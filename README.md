@@ -78,8 +78,7 @@ Examples of measures created for this project:
 ## Data Source
 
 Indiana Transparency Portal Vendor Expenditure Data (Q4 2025)
-
-https://www.in.gov/itp/state-financials/
+https://hub.mph.in.gov/dataset/vendors-data/resource/2bfb083d-562f-4395-a863-7cc8370b961b
 
 ---
 
